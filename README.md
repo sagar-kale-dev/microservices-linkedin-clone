@@ -4,7 +4,7 @@ A simple LinkedIn-like social networking application built using **Spring Boot M
 
 ## Architecture Overview
 
-<img width="1209" height="471" alt="Microservices" src="https://github.com/user-attachments/assets/57ac1d26-8f7a-4fcd-b429-fc2bd5b785ea" />
+<img width="1209" height="471" alt="Microservices" src="https://github.com/user-attachments/assets/0c456655-c8f7-4b41-8564-fb078c995af1" />
 
 ###
 The application is composed of multiple independent microservices:
